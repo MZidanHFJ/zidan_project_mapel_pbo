@@ -40,7 +40,7 @@ if (isset($_GET['hapus'])) {
         <div class="menu-container">
             <div class="menu-card">
                 <h2>Admin</h2>
-                <p>Kelola barang, stok, dan harga</p>
+                <p>Kelola barang dan customer</p>
                 <a href="admin.php" class="button">Masuk sebagai Admin</a>
             </div>
             <div class="menu-card">
